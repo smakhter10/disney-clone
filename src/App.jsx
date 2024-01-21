@@ -1,5 +1,5 @@
 import "./App.css";
-import Header from "./Components/header";
+import Header from "./Components/Header";
 import Slider from "./Components/Slider";
 import Production from "./Components/Production";
 import GenreMovieList from "./Components/GenreMovieList";
